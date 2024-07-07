@@ -2,7 +2,7 @@
 /*---Custumize-Here---*/
 let num = 3;
 let infinite = true;
-let starting_player = 'X';
+let starting_player = 'O';
 /*--------------------*/
 
 let grid = [[]];
